@@ -1,2 +1,4 @@
 node_modules
 lib
+test/assets/bundle.js
+package-lock.json
